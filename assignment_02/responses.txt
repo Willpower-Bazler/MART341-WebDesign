@@ -1,6 +1,27 @@
-test
+1. How is the world wide web different than the internet?
 
-test
+          The internet is like the network, whereas the world wide web is all the information that we use the internet to access.
 
-test
+2. Briefly describe how the internet works.
 
+          Your device sends out a request, that request is taken through multiple stations, your request is received, the info is sent back to you.
+
+3. What is a directory, and what is its relationship to files?
+
+          A directory is a nesting of a folder or folders in a path. Those folders contain files.
+
+4. How will VCS benefit you?
+
+          I think VCS helps big time with organization. In this case we are using Github.
+
+5. Take a screenshot anytime while working on your homework.
+
+          Done.
+
+6. What is your favorite kind of art?
+
+          I've always loved surrealism! I also have come to love abstract, but only very specific abstract like Pollock's work.
+
+7. Rename this screenshot using proper naming conventions, and upload it to your assignment02 directory.
+
+          Done.
