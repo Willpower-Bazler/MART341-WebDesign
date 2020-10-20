@@ -32,6 +32,16 @@ An example of a text input would be for something like a username, where you wan
 
 My work cycle was straightforward again, I just did the steps as they were listed.
 
+---------------------------------------------------
+
+Week 8: Trying hard to make a comeback and finish the semester strong.
+
+A div is used to create layouts. A span is used to stylize text, and it's inline so it's only used for small stuff like the inside of a paragraph. An ID can be used to identify an element, where a class can be used to identify multiple elements.
+
+I feel like the biggest advantage to using a service hosted video is that they did all the work for you, and it's just a link rather than a big old file you have to worry about. However, the disadvantage is obviously that you aren't in control of that link, so the video could get taken down without you knowing it and now that's a weak link in your website.
+
+What challegenges did I have this week? Well. Haha.
+
 
 
 
