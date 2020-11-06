@@ -40,7 +40,17 @@ A div is used to create layouts. A span is used to stylize text, and it's inline
 
 I feel like the biggest advantage to using a service hosted video is that they did all the work for you, and it's just a link rather than a big old file you have to worry about. However, the disadvantage is obviously that you aren't in control of that link, so the video could get taken down without you knowing it and now that's a weak link in your website.
 
-What challegenges did I have this week? Well. Haha.
+What challenges did I have this week? Well. Haha.
+
+------------------------------------------------------
+
+Week 9: Lotta catching up to do. :( Just trying to crank it out. I'm actually super proud of myself, the unordered lists weren't centering within my div and so after half an hour of googling I figured it out, and used style to bring the dots in to the centered text.
+
+Overall I feel like html is mild to learn ,it's not hard but it's not easy. The most frustrating thing is when you miss one little letter or something like that and the whole thing won't work because of it.
+
+I'm excited to learn about CSS! Style is awesome, I feel like it's where someone's personality comes out.
+
+This whole semester has been a challenge for me. Just trying my best and trying to learn and have fun at the same time. :) The only way through is forward.
 
 
 
