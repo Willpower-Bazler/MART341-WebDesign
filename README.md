@@ -52,10 +52,21 @@ I'm excited to learn about CSS! Style is awesome, I feel like it's where someone
 
 This whole semester has been a challenge for me. Just trying my best and trying to learn and have fun at the same time. :) The only way through is forward.
 
+------------------------------------------------------
 
+Week 10: Still working hard. CSS was pretty fun to get into, and it's not as hard as I thought it would be which is nice.
 
+Universal selector affects every element in the page. You would use this if you wanted everything in your page to have the exact same style.
+Element selector affects all elements of the same type. (Such as every single paragraph <p>.)
+Class selectors affect everything that has been given the corresponding class. (Everything with class="blahblah" will be affected by .blahblah.)
+ID selectors affect everything that has been given the corresponding ID. (Everything with ID="yayaya" will be affected by #yayaya.)
+  
+The three colors that I chose were black, red, and orange.
+Black: black, 0,0,0, #000000
+Red: red, 255,0,0, #FF0000
+Orange: orange, 255,128,0, #FF8000
 
-
+I didn't have any challenges with anything this week, it just took a minute to realize that everything that is style is what goes into my style.css. Also, I love colors and all that stuff.
 
 
 
