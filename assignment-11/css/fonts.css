@@ -1,0 +1,13 @@
+
+
+@font-face {
+    font-family: 'idk1';
+    src: url('../fonts/28dayslater.ttf') format('truetype');
+    font-style: normal;
+  }
+
+    @font-face {
+        font-family: 'idk2';
+        src: url('../fonts/brokendetroit.ttf') format('truetype');
+        font-style: normal;
+      }

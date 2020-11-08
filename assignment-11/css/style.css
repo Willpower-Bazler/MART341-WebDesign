@@ -1,0 +1,49 @@
+
+
+
+
+.headings {
+  text-align: center;
+  font-family: "idk1", Trebuchet;
+  font-weight: bold;
+  line-height: 1em;
+}
+
+
+.link {
+  text-align: center;
+  font-family: "idk1", Trebuchet;
+  font-weight: bold;
+  line-height: 1em;
+}
+a:link {
+   color: grey;
+   text-decoration: none;
+}
+a:visited {
+   color: black;
+   text-decoration: none;
+}
+a:hover {
+   color: red;
+   font-style: italic;
+}
+
+
+#h1 {
+  font-size: 60px;
+}
+#h2 {
+  font-size: 50px;
+}
+#h3 {
+  font-size: 20px;
+}
+
+.p1, .p2 {
+  text-align: left;
+  font-family: "idk2";
+  font-size: 30px;
+  font-weight: normal;
+  line-height: 2em;
+}
