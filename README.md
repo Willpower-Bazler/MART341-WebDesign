@@ -66,8 +66,19 @@ Black: black, 0,0,0, #000000
 Red: red, 255,0,0, #FF0000
 Orange: orange, 255,128,0, #FF8000
 
-I didn't have any challenges with anything this week, it just took a minute to realize that everything that is style is what goes into my style.css. Also, I love colors and all that stuff.
+I didn't have any challenges with anything this assignment, it just took a minute to realize that everything that is style is what goes into my style.css. Also, I love colors and all that stuff.
 
+------------------------------------------------------
+
+Week 11: still going crazy. This is one of the coolest looking web pages I've made so far I think.
+
+System fonts are the fonts that are already present and installed on your device.
+Web fonts are custom fonts that are hosted on a server.
+web safe fonts are reliable fonts that can be counted on to already be on the person's system.
+
+It's important to have fall back fonts in case the first choice doesn't work for some reason. It's like a preventative measure.
+
+I didn't have any challenges for this assignment, it just took a while, since I'm still getting used to using css for everything.
 
 
 
