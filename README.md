@@ -80,6 +80,14 @@ It's important to have fall back fonts in case the first choice doesn't work for
 
 I didn't have any challenges for this assignment, it just took a while, since I'm still getting used to using css for everything.
 
+------------------------------------------------------
 
+Week 12: Feels really good to be mostly caught up in this class. Just still going nuts and doing school 24/7. Going a little insane for sure.
+
+The padding is the space in between your text and the border. This allows for better readability. The border covers the content, and the margin is the "padding" between the end of the page and the border.
+
+I got rather stuck on the inline block. I couldn't make it center, even though I put text align center on the parent div. Frustrating, but I found an all-right workaround with positioning I guess.
+
+------------------------------------------------------
 
 
