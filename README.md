@@ -90,4 +90,16 @@ I got rather stuck on the inline block. I couldn't make it center, even though I
 
 ------------------------------------------------------
 
+Week 13: Almost there! Happy with my comeback in this class.
+
+My imaginary client was the team who created one of my favorite WADs for Doom 2. The WAD is called Stronghold: On the Edge of Chaos. They wanted a site that would showcase the features of the WAD, with enticing pictures and a layout that is badass, yet simple to give a retro feel.
+
+Mobile first design is important mostly because most people have a phone, so you want your site to be mobile friendly as well.
+
+I had a lot of trouble with the dropdown. In the end I had to basically copy the one from the lesson and then modify it to make it my own. Turns out I had one little thing wrong with my div order. Frustrating. But it worked in the end and it looks sick. Worth it.
+
+
+
+
+
 
