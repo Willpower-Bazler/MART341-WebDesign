@@ -1,0 +1,101 @@
+
+a {
+  font-family: "idk4", Trebuchet;
+  font-weight: bold;
+  line-height: 1em;
+}
+
+.contactstuff, p {
+  color: white;
+
+  font-family: "idk4";
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 2em;
+
+  width: 100%;
+  height: 50%;
+  background-color: black;
+  padding: 1em;
+}
+
+ul {
+  display: inline;
+  color: white;
+
+  font-family: "idk4";
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 2em;
+
+  width: 100%;
+  height: 50%;
+  background-color: black;
+  padding: 1em;
+}
+
+li {
+  color: white;
+
+  font-family: "idk4";
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 2em;
+
+  width: 100%;
+  height: 50%;
+  background-color: black;
+  padding: 1em;
+}
+
+
+
+
+
+.menu {
+    display: inline-block;
+    margin: 0 0;
+    min-width: 8em;
+    text-align: center;
+    background-color: black;
+    padding: 0.5em 0;
+}
+.menu a {
+    color: white;
+    text-decoration: none;
+}
+.menu:hover {
+    background-color: grey;
+
+}
+
+
+.dropdownmom {
+  display: inline-block;
+}
+.dropdowncontent{
+  display: none;
+  position: absolute;
+  margin: 0;
+  margin-top: 0.5em;
+  color: white;
+  background-color: black;
+  z-index: 1;
+}
+.dropdowncontent a {
+    color: white;
+}
+.dropdownmom:hover .dropdowncontent {
+    display: block;
+}
+.dropdownbaby {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em;
+    min-width: 7em;
+}
+.dropdownbaby:hover, .dropdownbaby:hover a {
+    color: red;
+    background-color: grey;
+}

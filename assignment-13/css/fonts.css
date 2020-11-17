@@ -1,0 +1,25 @@
+
+
+@font-face {
+    font-family: 'idk1';
+    src: url('../fonts/28dayslater.ttf') format('truetype');
+    font-style: normal;
+  }
+
+    @font-face {
+        font-family: 'idk2';
+        src: url('../fonts/brokendetroit.ttf') format('truetype');
+        font-style: normal;
+      }
+
+      @font-face {
+          font-family: 'idk3';
+          src: url('../fonts/augustus.ttf') format('truetype');
+          font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'idk4';
+            src: url('../fonts/roman sd.ttf') format('truetype');
+            font-style: normal;
+          }
