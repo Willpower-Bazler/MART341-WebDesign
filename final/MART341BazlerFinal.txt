@@ -1,8 +1,0 @@
-Repo:
-https://github.com/Willpower-Bazler/MART341-WebDesign/
-
-Live sites:
-https://github.com/Willpower-Bazler/MART341-WebDesign/blob/master/assignment-13/about.html
-https://github.com/Willpower-Bazler/MART341-WebDesign/blob/master/assignment-13/contact.html
-https://github.com/Willpower-Bazler/MART341-WebDesign/blob/master/assignment-13/index.html
-https://github.com/Willpower-Bazler/MART341-WebDesign/blob/master/assignment-13/services.html
