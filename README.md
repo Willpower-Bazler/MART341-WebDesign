@@ -98,8 +98,14 @@ Mobile first design is important mostly because most people have a phone, so you
 
 I had a lot of trouble with the dropdown. In the end I had to basically copy the one from the lesson and then modify it to make it my own. Turns out I had one little thing wrong with my div order. Frustrating. But it worked in the end and it looks sick. Worth it.
 
+------------------------------------------------------
 
+Week 14: Done!!! Still sort of in awe at the comeback I made for this semester and all those weeks I got behind. I barely made it but I have to toot my horn a bit and say I'm really happy with myself for pushing through.
 
+I didn't really learn anything new regarding github and that sort of stuff. I've already done that for some previous classes, so other than Readme stuff most of that was old. I did learn that you can drag your entire folder into github, and I wish I had known that 11 weeks earlier haha because it saves a lot of time.
 
+While this class built on a couple classes I've taken previously with coding and stuff, most of the content was new, and definitely felt like a web design class rather than just coding. Most of the material was easy to learn and easy to apply.
+
+I've already talked enough about this semester as a challenge as a whole. Boom boom done. As for this project, I wanted to put images along side each other, rather than just one like in my previous assignments. After way too much time spent googling and stuff I ended up using the flex method and it worked exactly how I wanted it to. Other than that this project wasn't too challenging, I had a lot of fun with it especially since I'd like to make my own website someday.
 
 
